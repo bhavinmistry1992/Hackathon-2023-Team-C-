@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EMart.Core/bin
+/EMart.Core/obj
+/EMart.Infrastructure/bin
+/EMart.Infrastructure/obj
+/EMart.API/bin
+/EMart.API/obj
